@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chatgpt-register-guide.github.io/archives/82e24761.html</loc>
+    
+    <lastmod>2024-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-register-guide.github.io/archives/894b7cf0.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgpt-register-guide.github.io/archives/fa3e9ba4.html</loc>
     
     <lastmod>2024-03-07</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://chatgpt-register-guide.github.io/archives/b6c94237.html</loc>
-    
-    <lastmod>2024-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-register-guide.github.io/archives/894b7cf0.html</loc>
     
     <lastmod>2024-03-04</lastmod>
     
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://chatgpt-register-guide.github.io/</loc>
-    <lastmod>2024-03-07</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
